@@ -1,13 +1,12 @@
-# **Bixby key remapper**
+# **Bixby key remapper(Bixby键相机)**
 
-## Description
+## 介绍
 
-This Magisk module remaps the dedicated Bixby hardware button on the Samsung
-Galaxy S9/S9+ (G960F/G965F) to open the camera.
+该模块是将 Samsung Galaxy S9/S9+ (G960F/G965F) 的实体Bixby按键功能映射为 快速开启相机 的功能。
 
-It should also work on the S8/S8+ (G950F/G955F).
+S8/S8+ (G950F/G955F)应该也可以使用
 
-## Changelog
+## 更新日志
 
 2018-07-03: v1.0
 
