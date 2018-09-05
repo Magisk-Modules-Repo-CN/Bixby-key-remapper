@@ -1,4 +1,4 @@
-# **Bixby key remapper(Bixby键相机)**
+# **Bixby key remapper(将Bixby键映射为相机键)**
 
 ## 介绍
 
